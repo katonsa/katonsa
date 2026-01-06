@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Katon 👋
 
+Backend / Web Developer with a strong interest in building clean, reliable, and maintainable web applications.
+
+---
+
+## 🧑‍💻 About Me
+- 💻 Interested in **Backend Development & Web Application**
+- 🌱 Currently learning and deepening knowledge in backend architecture
+- 🔎 Detail-oriented, structured, and willing to learn new technologies
+- 📍 Based in Indonesia
 <!--
 **katonsa/katonsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
