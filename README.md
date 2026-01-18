@@ -2,8 +2,6 @@
 
 Backend / Web Developer with a strong interest in building clean, reliable, and maintainable web applications.
 
----
-
 ## 🧑‍💻 About Me
 - 💻 Interested in **Backend Development & Web Application**
 - 🌱 Currently learning and deepening knowledge in backend architecture
